@@ -1,3 +1,5 @@
 Hello I am Maneesha this was my first git practical session.
 
-This is the line i am chamging on remote repository. 
+
+This is the line i am chamging on remote repository. Let's see will it reflect in my local repository or not. i am adding this to test merge conflict.
+
