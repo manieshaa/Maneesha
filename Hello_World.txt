@@ -1,3 +1,3 @@
 Hello I am Maneesha this was my first git practical session.
 
-This is the line i am chamging on remote repository. Let's see will it reflect in my local repository or not.
+This is the line i am chamging on remote repository. 
